@@ -1,4 +1,3 @@
-# blackjack.py
 import random
 
 class Jugador:
