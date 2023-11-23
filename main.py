@@ -1,4 +1,3 @@
-# main.py
 from baraja import BarajaInglesa
 
 if __name__ == "__main__":
